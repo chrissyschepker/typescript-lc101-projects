@@ -1,6 +1,4 @@
-import { Astronaut } from './Astronaut';
 import { Payload } from './Payload';
-import { Rockets } from './Rockets';
 
 export class Cargo implements Payload {
     massKg : number;
